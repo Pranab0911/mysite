@@ -1,0 +1,111 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    font-size: 5.6rem;
+    margin: 50px auto 0 auto;
+    position: relative;
+    top: 65px;
+    color: #66BFBF;
+
+}
+.top-container p{
+    font-size: 2.3rem;
+    position: relative;
+    top: 47px;
+    color: #66BFBF;
+    font-weight: normal;
+}
+.top-container{
+    background-color: #caebe5;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container p{
+    position: relatve;
+    top: 1px;
+    margin: 50px auto;
+     
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+    
+}
+hr{
+    border: dotted#Eaf6f6 6px;
+    border-bottom: none;
+    width: 5%;
+    margin: 100px auto;
+}
+.git{
+    width: 50%;
+    margin:  40px auto 40px;
+}
+.computer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+ 
+}
+.intro{
+    font-size: 23px;
+}
+.giphy{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.bottom-container a{
+  color:  #11999E;
+  padding: 24px;
+  text-decoration: none;
+}
+a:hover{
+    color:#Eaf6f6;
+}
+.copywrite{
+    color:#Eaf6f6;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 500px;
+    top: 60px;
+}
+.bottom-cloud{
+    position: absolute;
+}
+.me{
+    width: 150px;
+}
+.skill-row h3{
+    color:  #11999E;
+    
+}
+.bottom-container{
+    margin-top: 40px;
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+.btn{
+    border: 2px solid;
+    text-decoration: none;
+    padding: 13px;
+    margin: 13px;
+    background-color: rgb(171, 218, 221);
+    color: white;
+    border-radius: 8px;
+cursor: pointer;
+
+
+}
+.btn:hover{
+    background-color: rgb(112, 180, 166);
+    
+}
